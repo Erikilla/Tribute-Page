@@ -1,0 +1,42 @@
+#main {
+  font-family: arial;
+  margin: 0px 90px;
+}
+#title {
+  text-align: center;
+  font-size: 80px;
+}
+img {
+  display: block;
+  margin: auto;
+  max-width: 100%;
+  width: 500px;
+  height: auto;
+  border-radius: 50px;
+  box-shadow: 10px 10px 20px;
+}
+#img-div {
+  background: gray;
+  padding: 15px;
+  border-radius: 30px;
+  box-shadow: 10px 10px 20px;
+}
+#img-caption {
+  text-align: center;
+  color: white;
+  font-weight: bold;
+  line-height: 50px;
+}
+ul {
+  line-height: 50px;
+  font-size: 18px;
+}
+#quote {
+  font-size: 20px;
+  color: gray;
+}
+#add-info {
+  text-align: center;
+  font-size: 20px;
+  font-weight: bold;
+}
